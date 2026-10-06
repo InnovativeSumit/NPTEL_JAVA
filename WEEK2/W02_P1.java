@@ -1,5 +1,7 @@
 // AREA OF AN RECTANGLE 
+
 package WEEK2;
+
 import java.util.*;
 
 class W02_P1 {

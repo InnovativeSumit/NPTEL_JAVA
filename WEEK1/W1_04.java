@@ -1,3 +1,7 @@
+// CALCULATE THE TABLE OF A NUMBER
+
+package WEEK1;
+
 import java.util.*;
 
 public class W1_04{
@@ -11,6 +15,7 @@ public class W1_04{
 
         for(int i = 1 ; i <= 10 ; i ++){
             System.out.println(num +" * " + i + " = " + (num*i));
-        }        
+        }
+        sc.close();        
     }
 }

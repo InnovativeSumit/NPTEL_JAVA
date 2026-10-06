@@ -1,3 +1,7 @@
+// CALCULATE THE VOLUME OF A CYLINDER
+
+package WEEK1;
+
 import java.util.*;
 
 public class W1_03{
@@ -20,6 +24,7 @@ public class W1_03{
 
         double res1 = volume(radius, height);
         System.out.printf("The perimeter is  %.2f", res1);
+        sc.close();
             
     }
 }

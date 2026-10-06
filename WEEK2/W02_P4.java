@@ -1,5 +1,7 @@
-package WEEK2;
 // SUM OF LENGTH AND WIDTH OF ARECTANGLE
+
+package WEEK2;
+
 import java.util.*;
 
 public class W02_P4 {

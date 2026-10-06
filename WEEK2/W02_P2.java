@@ -1,6 +1,9 @@
-package WEEK2;
 // PERIMETER OF AN RECTANGLE 
+
+package WEEK2;
+
 import java.util.*;
+
 class W02_P2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

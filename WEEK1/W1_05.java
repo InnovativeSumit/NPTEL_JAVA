@@ -1,3 +1,7 @@
+// PERFORM TH EARITHMETIC OPERATIONS IN JAVA
+
+package WEEK1;
+
 import java.util.*;
 
 public class W1_05{
@@ -14,6 +18,6 @@ public class W1_05{
 
         System.out.println("The Remainder is: " + (num1%num2));
         System.out.println("The Quotient  is: " + (num1/num2));
-               
+        sc.close();      
     }
 }

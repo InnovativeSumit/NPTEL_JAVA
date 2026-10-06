@@ -1,3 +1,7 @@
+// CALCULATE A NUMBER IS EVEN OR ODD
+
+package WEEK1;
+
 import java.util.*;
 
 class W1_01 {
@@ -11,5 +15,6 @@ class W1_01 {
     } else {
       System.out.println("The number " + num + " is an odd number");
     }
+    sc.close();
   }
 }

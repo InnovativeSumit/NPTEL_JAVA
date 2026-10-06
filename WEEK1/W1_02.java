@@ -1,3 +1,7 @@
+// CALCULATE THE PERIMETER AND AREA OF A RECTANGLE
+
+package WEEK1;
+
 import java.util.*;
 
 public class W1_02{
@@ -28,9 +32,7 @@ public class W1_02{
         
         double res2 = area(length,width);
         System.out.printf("The area is  %.2f", res2);
-
-        
-        
-        
+        sc.close();
+   
     }
 }

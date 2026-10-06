@@ -1,6 +1,7 @@
+// INSERT AN ARRAY AND FIND THE BIGGEST ELEMENTS FROM IT 
+
 package WEEK2;
 
-// PERIMETER OF AN RECTANGLE 
 import java.util.*;
 
 class W02_P3 {
